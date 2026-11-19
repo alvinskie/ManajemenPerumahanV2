@@ -229,5 +229,5 @@ ManajemenPerumahanV2/
 ---
 
 <p align="center">
-  Dibuat Oleh <b>Furry-Indonesia(KEL-3)</b> &nbsp;·&nbsp; Solid! Solid! Solid! 🐾
+  Dibuat Oleh <b>Furry-Indonesia(KEL-3)</b> &nbsp;·&nbsp;
 </p>
